@@ -13,7 +13,7 @@ import './style.css'
 
 // import App from './AppBookmarks.vue'
 // import App from './AppPokedex.vue'
-import App from './AppRP.vue'
+import App from './AppRolePlay.vue'
 
 // import App from './AppHoraires.vue'
 

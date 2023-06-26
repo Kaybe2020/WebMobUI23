@@ -1,0 +1,107 @@
+[
+    {
+        "Nom": "Humain",
+        "NiveauMax": 5,
+        "Stats": {
+            "Force": 8,
+            "Dex": 7,
+            "Const": 9,
+            "Int": 10,
+            "Sag": 6,
+            "Char": 5
+        },
+        "Histoire": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+        "ListeAttaques": [
+            {
+                "Nom": "Coup de poing",
+                "Degats": "1d6",
+                "Niveau": 1
+            },
+            {
+                "Nom": "Coup de pied",
+                "Degats": "1d4",
+                "Niveau": 1
+            },
+            {
+                "Nom": "Coup de tête",
+                "Degats": "1d12",
+                "Niveau": 2
+            },
+            {
+                "Nom": "Charge",
+                "Degats": "1d20",
+                "Niveau": 3
+            }
+        ]
+    },
+    {
+        "Nom": "Elfe",
+        "NiveauMax": 10,
+        "Stats": {
+            "Force": 6,
+            "Dex": 7,
+            "Const": 5,
+            "Int": 12,
+            "Sag": 10,
+            "Char": 12
+        },
+        "Histoire": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+        "ListeAttaques": [
+            {
+                "Nom": "Flèche de bois",
+                "Degats": "1d4",
+                "Niveau": 1
+            },
+            {
+                "Nom": "Double flèche",
+                "Degats": "1d6",
+                "Niveau": 1
+            },
+            {
+                "Nom": "Flèche de bronze",
+                "Degats": "1d12",
+                "Niveau": 2
+            },
+            {
+                "Nom": "Flèche d'acier",
+                "Degats": "2d20",
+                "Niveau": 3
+            }
+        ]
+    },
+    {
+        "Nom": "Orc",
+        "NiveauMax": 8,
+        "Stats": {
+            "Force": 12,
+            "Dex": 12,
+            "Const": 10,
+            "Int": 2,
+            "Sag": 4,
+            "Char": 2
+        },
+        "Histoire": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+        "ListeAttaques": [
+            {
+                "Nom": "Grognement de la mort",
+                "Degats": "1d6",
+                "Niveau": 1
+            },
+            {
+                "Nom": "Assaut simple",
+                "Degats": "1d4",
+                "Niveau": 1
+            },
+            {
+                "Nom": "Furie",
+                "Degats": "1d12",
+                "Niveau": 2
+            },
+            {
+                "Nom": "Assaut puisant",
+                "Degats": "2d20",
+                "Niveau": 3
+            }
+        ]
+    }
+]
