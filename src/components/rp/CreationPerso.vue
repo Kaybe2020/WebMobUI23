@@ -124,4 +124,18 @@ const nom = computed(() => {
 button {
     padding: 0.5rem 1rem;
 }
+
+/********************************************************************************************************
+MARCHE A SUIVRE
+*********************************************************************************************************/
+/* En mode #
+1) Importer + faire header
+2) Créer les feuilles des composants que l'ont veut
+3) Importer dans APP
+4) Dans BAseButton mettre <slot> pour changer le texte
+5) CréationPerso => créer la page
+6) Faire fichier JSON
+7) Entrer les informations dans le template
+
+!!! .value quand on est hors de la template !!! */
 </style>
