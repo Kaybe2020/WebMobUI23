@@ -12,12 +12,12 @@ import './style.css'
 // import App from './AppSchedule.vue'
 
 // import App from './AppBookmarks.vue'
-// import App from './AppPokedex.vue'
+ import App from './AppPokedex.vue'
 // import App from './AppRolePlay.vue'
 
 // import App from './AppHoraires.vue'
 
-import App from './AppMovies.vue'
+// import App from './AppMovies.vue'
 
 createApp(App).mount('#app')
 /* creatApp(App) permet de créer une instance de l'application. 
